@@ -2,7 +2,7 @@ public class Phone implements Chargeable{
 
     @Override
     public void charge(){
-        System.out.println("The battery of the laptop is 100 percent");
+        System.out.println("The battery of the phone is 100 percent");
     }
 
     public void call(){
